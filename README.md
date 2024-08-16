@@ -3,6 +3,7 @@ Welcome to the Bank of Flatiron, where you can safely store your financial data 
 
 # Author
  This code was written by Mark Nyanjui.(https://github.com/MarkNyanjui)
+ 
 
 # Instructions
 For this project, you will be building a React application that displays a list of your recent bank transactions, among other features. 
